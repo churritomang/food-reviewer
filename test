@@ -1,1 +1,14 @@
-hello
+<!DOCTYPE html>
+<html>
+   <head>
+    <Title>Introduction</Title>
+   </head> 
+   <body>
+    <h1> Hello!
+        <p>I haven't edited an html file since the MySpace days and here I am, creating a damn blog in it.
+            My name is Kenny and I want to use this as a way to express myself through cooking and coding. 
+            
+        </p>
+    </h1>
+   </body>
+</html>
